@@ -46,3 +46,10 @@ ARCHIVES_SAVE_AS = ''
 AUTHORS_SAVE_AS = ''
 CATEGORIES_SAVE_AS = ''
 TAGS_SAVE_AS = ''
+PLUGIN_PATHS = ['.']
+PLUGINS = ['thumbnailer']
+IMAGE_PATH = 'images'
+THUMBNAIL_DIR = 'thumbnails'
+THUMBNAIL_SIZES = {
+    'tn': '640x?',
+    'tn_t': '?x640'}
