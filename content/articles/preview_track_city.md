@@ -1,5 +1,6 @@
 Title: Preview of the city track
-Status: draft
+Date: 2017-10-10
+Cover: images/yorg/city1.jpg
 
 Hi! Our artist has released some renders of his last track!
 
