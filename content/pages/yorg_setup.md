@@ -6,6 +6,7 @@ Here's a short guide about installing and preparing your environment for Yorg.
 
 * clone the repository: `git clone --recursive https://github.com/cflavio/yorg.git`
 * go into the directory: `cd yorg`
+* (optional, recommended for non-developers, since *master* is an unstable branch) checkout the *stable* branch: `git checkout stable; git submodule foreach git checkout stable`
 * create a python2 virtualenv: `virtualenv --python=/usr/bin/python2 venv`
 * activate the virtualenv: `. ./venv/bin/activate`
 * install the prerequisites: `pip install panda3d SCons`

@@ -71,6 +71,11 @@ You will receive from me nothing but name, rank and serial number! That's all! I
 <p align="center"><img src="{filename}/images/about/jeff.jpg"/></p>
 
 
+Translators
+-----------
+
+* Deutsch: *Wuzzy*.
+
 Licenses
 ========
 

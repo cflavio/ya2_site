@@ -50,7 +50,7 @@ Download from IndieDB
 More info
 ---------
 
-**NB** Disable shaders and reduce cars' number in order to play on slower machines.
+**Note:** disable shaders and reduce cars' number in order to play on slower machines.
 
 **System requirements**: 2 GB RAM, 1 GB HD.
 
