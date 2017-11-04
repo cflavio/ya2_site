@@ -15,7 +15,8 @@ Design elements
 * power-ups;
 * weapons;
 * championship (planned for release 0.8);
-* multiplayer (planned for release 0.9).
+* multiplayer (planned for release 0.9);
+* joypad support, particle effects and several performance improvements will be published as soon as *Panda3D 1.10* will be released.
 
 Yorg is **FLOSS**: the code of the game is released under *GPLv3*. Ya2's art assets are released under *CC BY-SA*. Project's source are [here](https://github.com/cflavio/yorg).
 
