@@ -74,7 +74,8 @@ You will receive from me nothing but name, rank and serial number! That's all! I
 Translators
 -----------
 
-* Deutsch: *Wuzzy*.
+* Deutsch: *Wuzzy*;
+* Scottish Gaelic: *GunChleoc*.
 
 Licenses
 ========
