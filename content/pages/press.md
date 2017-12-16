@@ -9,6 +9,8 @@ You can find Yorg's presskit [here](http://www.indiedb.com/games/yorg/presskit).
 Yorg's Press
 ------------
 
+*"This new release includes important changes that improve the playable experience to a great extent and also several new features."* ([Jugando En Linux](http://jugandoenlinux.com/index.php/homepage/generos/carreras/item/686-yorg-alacanza-la-version-0-8))
+
 *"It all looks very well made; anyone looking for some arcady action racing should give this a try!"* ([Free Game News](http://fossgames.blogspot.it/2017/08/yorg.html))
 
 *"This arcade fun is the one that offers us this title."* ([Jugando En Linux](http://www.jugandoenlinux.com/index.php/homepage/generos/carreras/item/580-yorg-un-juego-de-carreras-open-source))
