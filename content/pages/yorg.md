@@ -9,12 +9,12 @@ Design elements
 * third person visual perspective;
 * arcade-style;
 * 8 different pilots;
-* 7 different cars (*more to come*);
-* 4 different tracks (*more to come*);
+* 8 different cars (*more to come*);
+* 5 different tracks (*more to come*);
 * AI;
 * power-ups;
 * weapons;
-* championship (planned for release 0.8);
+* championships;
 * multiplayer (planned for release 0.9);
 * joypad support, particle effects and several performance improvements will be published as soon as *Panda3D 1.10* will be released.
 
@@ -22,7 +22,7 @@ Yorg is **FLOSS**: the code of the game is released under *GPLv3*. Ya2's art ass
 
 <p align="center"><a href="{filename}/images/yorg/1.jpg"><img src="{filename}/images/yorg/1.jpg" width="660" height="371" /></a></p>
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CUhTIVtQ2U4" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Hr8iXhzgRCI" frameborder="0" allowfullscreen></iframe></p>
 
 Quotes
 ------
@@ -59,6 +59,6 @@ We apply **Continuous Delivery** in our development. This means that you can pla
 
 Yorg is developed by using several **tools**: [Panda 3D](http://www.panda3d.org), [Blender](https://www.blender.org), [The Gimp](http://www.gimp.org), [Python](https://www.python.org) and [Bullet](http://bulletphysics.org).
 
-The **development team** is currently composed of *Flavio Calva* and *Luca Quartero*. Moreover, *Jeff Skyrunner*, *Jay Bachelor* and *Dario Murgia* are precious collaborators. (more info [here]({filename}/pages/about.md)).
+The **development team** is currently composed of *Flavio Calva* and *Luca Quartero*. Moreover, *Jay Bachelor* is a precious collaborator. (more info [here]({filename}/pages/about.md)).
 
 Please, consider [supporting us]({filename}/pages/support_us.md)!
