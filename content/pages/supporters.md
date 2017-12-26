@@ -6,6 +6,7 @@ Here are the persons who are supporting us for development monthly (look at [her
 * rdb
 * Dante Calva
 * Luisa Tenuta
+* Damiana Ercolani
 
 Here are the persons who have supported us for 0.7's development:
 
