@@ -7,6 +7,7 @@ Here are the persons who are supporting us for development monthly (look at [her
 * Dante Calva
 * Luisa Tenuta
 * Damiana Ercolani
+* 4 unknown supporters
 
 Here are the persons who have supported us for 0.7's development:
 
