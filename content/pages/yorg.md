@@ -8,7 +8,7 @@ Design elements
 
 * third person visual perspective;
 * arcade-style;
-* 8 different pilots;
+* 8 different drivers;
 * 8 different cars (*more to come*);
 * 5 different tracks (*more to come*);
 * AI;
