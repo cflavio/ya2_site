@@ -13,11 +13,11 @@ Here are the persons who are supporting us for development monthly (look at [her
 Here are the persons who have supported us for 0.9's development:
 
 * Kareem Jordan
+* Simon Spitzmueller
 
 Here are the persons who have supported us for 0.7's development:
 
 * Antonio Francescon
-
 
 Here are the persons who have supported us for 0.6's development:
 
