@@ -9,9 +9,9 @@ You can find Yorg's presskit [here](http://www.indiedb.com/games/yorg/presskit).
 Yorg's Press
 ------------
 
-*"I think they've got a great start here and it could really turn into something awesome if they keep on developing it."* [GamingOnLinux](https://www.gamingonlinux.com/articles/yorg-a-free-and-open-source-racing-game-with-some-hilarious-handling.10876)
+*"I think they've got a great start here and it could really turn into something awesome if they keep on developing it."* ([GamingOnLinux](https://www.gamingonlinux.com/articles/yorg-a-free-and-open-source-racing-game-with-some-hilarious-handling.10876))
 
-*"Yorg is already giving a lot of fun right now. The tracks are quite substantial, varied and challenging."* [LinuxCommunity](http://www.linux-community.de/Internal/Artikel/Online-Artikel/Das-Spiel-zum-Wochenende-Yorg)
+*"Yorg is already giving a lot of fun right now. The tracks are quite substantial, varied and challenging."* ([LinuxCommunity](http://www.linux-community.de/Internal/Artikel/Online-Artikel/Das-Spiel-zum-Wochenende-Yorg))
 
 *"This new release includes important changes that improve the playable experience to a great extent and also several new features."* ([Jugando En Linux](http://jugandoenlinux.com/index.php/homepage/generos/carreras/item/686-yorg-alacanza-la-version-0-8))
 
