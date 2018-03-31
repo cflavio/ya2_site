@@ -12,6 +12,8 @@ Here are the persons who are supporting us for development monthly (look at [her
 
 Here are the persons who have supported us for 0.9's development:
 
+* Markus Hackspacher
+* Beniwtv
 * Kareem Jordan
 * Simon Spitzmueller
 

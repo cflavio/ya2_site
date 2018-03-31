@@ -37,20 +37,15 @@ Quotes
 
 *"The whole reminds a bit the recently released Micro Machines World Series."* ([Holarse](http://www.holarse-linuxgaming.de/wiki/yorg))
 
-Download from GameJolt
-----------------------
+Download
+--------
 
-<p align="center"><iframe src="https://widgets.gamejolt.com/package/v1?key=HCPQut48&amp;theme=light" width="500" height="245" frameborder="0"></iframe></p>
+Go to the [download page]({filename}/pages/download.md) to grab your build of Yorg.
 
-Download from itch.io
----------------------
+Support us!
+-----------
 
-<p align="center"><iframe src="https://itch.io/embed/133201" width="552" height="167" frameborder="0"></iframe></p>
-
-Download from IndieDB
----------------------
-
-<p align="center"><a title="View Yorg on Indie DB" href="http://www.indiedb.com/games/yorg" target="_blank""><img src="http://button.indiedb.com/popularity/medium/games/44744.png" alt="Yorg"/></a></p>
+Please, consider [supporting us]({filename}/pages/support_us.md)!
 
 More info
 ---------
@@ -64,5 +59,3 @@ We apply **Continuous Delivery** in our development. This means that you can pla
 Yorg is developed by using several **tools**: [Panda 3D](http://www.panda3d.org), [Blender](https://www.blender.org), [The Gimp](http://www.gimp.org), [Python](https://www.python.org) and [Bullet](http://bulletphysics.org).
 
 The **development team** is currently composed of *Flavio Calva* and *Luca Quartero*. Moreover, *Jay Bachelor* is a precious collaborator. (more info [here]({filename}/pages/about.md)).
-
-Please, consider [supporting us]({filename}/pages/support_us.md)!

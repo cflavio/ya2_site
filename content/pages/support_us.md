@@ -1,7 +1,7 @@
 Title: Support us
 sort: 3
 
-If you want to **help us** to develop our games, please consider the following ways. If you help us you will be **credited** in the next version of our game!
+If you want to **help us** to develop our games, please consider the following ways. If you help us you will be **credited** in the next version of our game! Depending on each service's peculiarity, you can find in the following pages several info about how community's support is used and concretely develops the game.
 
 ---
 **Patreon**: [here is our Patreon campaign](https://www.patreon.com/ya2) (minimum pledge: **only $1**!).
@@ -15,7 +15,7 @@ If you want to **help us** to develop our games, please consider the following w
 <script src="https://liberapay.com/Ya2/widgets/receiving.js"></script>
 
 ---
-**Flattr**: <a href="https://flattr.com/submit/auto?user_id=cflavio&url=http%3A%2F%2Fwww.ya2.it" target="_blank"><img src="//api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
+**Flattr**: <a href="https://flattr.com/@cflavio" target="_blank"><img src="//api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
 
 ---
 **AdBlock**: please, disable AdBlock on our site.

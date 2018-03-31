@@ -27,7 +27,7 @@ Please note that the following guide doesn't pollute your system: you can safely
 Very important!
 ===============
 
-Please, send your email address [to me]({filename}/pages/about.md), so I can add you to our mailing list, in order to receive messages from us when the development of a new version is completed and we need new translations.
+Please, send an empty email to <mailto:ya2_i18n-join@ya2.it> in order to subscribe i18n's mailing list. So, you can receive messages from us when the development of a new version is completed and new translations are needed. You can easily unsubscribe when you want.
 
 Please note that we will send few emails (once a release), so you won't be swamped by our emails. Moreover, you can keep in contact with other translators and developers with this mailing list.
 

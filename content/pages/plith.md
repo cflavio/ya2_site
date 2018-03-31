@@ -1,5 +1,5 @@
 Title: Plith
-sort: 7
+sort: 8
 
 <p align="center"><img src="{filename}/images/plith/plith_title.png"/></p>
 
