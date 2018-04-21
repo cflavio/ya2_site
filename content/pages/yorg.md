@@ -1,5 +1,5 @@
 Title: Yorg
-sort: 10
+sort: 1
 
 ***Yorg*** (***Y***org's an ***O***pen ***R***acing ***G***ame) is a **free open source** racing game developed by Ya2 using **Panda3D** for *Windows*, *OSX* and *Linux*.
 

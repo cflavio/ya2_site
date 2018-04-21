@@ -1,6 +1,5 @@
-Title: Yorg's translations
-Status: hidden
-Save_as: pages/yorg_translations.html
+Title: Translations
+sort: 90
 
 Here's a short guide about creating or modifying translations for Yorg.
 
