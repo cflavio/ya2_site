@@ -29,3 +29,8 @@ Moreover, you can grab the latest stable builds clicking on the following direct
 * <a href="http://www.ya2tech.it/built/yorg-stable-nointernet-osx.tar.xz" onclick="ga('send', 'event', 'Yorg', 'osx');">OSX</a>
 * <a href="http://www.ya2tech.it/built/yorg-stable-nointernet-linux_amd64" onclick="ga('send', 'event', 'Yorg', 'linux64');">Linux 64</a>
 * <a href="http://www.ya2tech.it/built/yorg-stable-nointernet-linux_i386" onclick="ga('send', 'event', 'Yorg', 'linux32');">Linux 32</a>
+
+Download development builds
+---------------------------
+
+You can find our development builds [here](http://www.ya2tech.it/download.html).
