@@ -54,6 +54,8 @@ More info
 
 **System requirements**: 2 GB RAM, 1 GB HD.
 
+**Multiplayer**: if you can't play a multiplayer race, please check [this guide]({filename}/pages/port_check.md).
+
 We apply **Continuous Delivery** in our development. This means that you can play a new build of the game as soon as we do anything. Look at [here](http://www.ya2tech.it/download.html) to pick a development/unstable build.
 
 Yorg is developed by using several **tools**: [Panda 3D](http://www.panda3d.org), [Blender](https://www.blender.org), [The Gimp](http://www.gimp.org), [Python](https://www.python.org) and [Bullet](http://bulletphysics.org).
