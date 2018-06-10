@@ -26,7 +26,7 @@ Please note that the following guide doesn't pollute your system: you can safely
 Very important!
 ===============
 
-Please, send an empty email to <mailto:ya2_i18n-join@ya2.it> in order to subscribe i18n's mailing list. So, you can receive messages from us when the development of a new version is completed and new translations are needed. You can easily unsubscribe when you want. Please **note**: we reject requests of subscription from unknown people, so make sure that you've informed us about your contribution [somewhere]({filename}/pages/community.md). Thank you!
+Please, send an empty email to <mailto:ya2_l10n-join@ya2.it> in order to subscribe l10n's mailing list. So, you can receive messages from us when the development of a new version is completed and new translations are needed. You can easily unsubscribe when you want. Please **note**: we reject requests of subscription from unknown people, so make sure that you've informed us about your contribution [somewhere]({filename}/pages/community.md). Thank you!
 
 Please note that we will send few emails (once a release), so you won't be swamped by our emails. Moreover, you can keep in contact with other translators and developers with this mailing list.
 

@@ -48,6 +48,7 @@ Translators
 -----------
 
 * Deutsch: *Wuzzy*;
+* French: *xin*;
 * Scottish Gaelic: *GunChleoc*;
 * Spanish and Galician: *Leandro Vergara*.
 

@@ -27,11 +27,11 @@ Yorg is **FLOSS**: the code of the game is released under *GPLv3*. Ya2's art ass
 Quotes
 ------
 
+*"Yorg is a very fun racing game in the style of MicroMachines, and we recommend all of you to try without further delay."* ([Jugando En Linux](https://jugandoenlinux.com/index.php/homepage/generos/carreras/item/885-el-juego-libre-yorg-acaba-de-publicar-la-version-0-9-rc1))
+
 *"I think they've got a great start here and it could really turn into something awesome if they keep on developing it."* ([GamingOnLinux](https://www.gamingonlinux.com/articles/yorg-a-free-and-open-source-racing-game-with-some-hilarious-handling.10876))
 
 *"Yorg is already giving a lot of fun right now. The tracks are quite substantial, varied and challenging."* ([LinuxCommunity](http://www.linux-community.de/Internal/Artikel/Online-Artikel/Das-Spiel-zum-Wochenende-Yorg))
-
-*"This new release includes important changes that improve the playable experience to a great extent and also several new features."* ([Jugando En Linux](http://jugandoenlinux.com/index.php/homepage/generos/carreras/item/686-yorg-alacanza-la-version-0-8))
 
 *"It all looks very well made; anyone looking for some arcady action racing should give this a try!"* ([Free Game News](http://fossgames.blogspot.it/2017/08/yorg.html))
 
