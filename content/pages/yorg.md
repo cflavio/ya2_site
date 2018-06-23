@@ -10,19 +10,21 @@ Design elements
 * arcade-style;
 * 8 different drivers;
 * 8 different cars (*more to come*);
-* 5 different tracks (*more to come*);
+* 6 different tracks (*more to come*);
 * AI;
 * power-ups;
 * weapons;
 * championships;
-* multiplayer (planned for release 0.9);
+* experimental multiplayer;
+* improved multiplayer (planned for release 0.10);
+* local multiplayer (planned for release 0.11);
 * joypad support, particle effects and several performance improvements will be published as soon as *Panda3D 1.10* will be released.
 
 Yorg is **FLOSS**: the code of the game is released under *GPLv3*. Ya2's art assets are released under *CC BY-SA*. Project's source are [here](https://github.com/cflavio/yorg).
 
 <p align="center"><a href="{filename}/images/yorg/1.jpg"><img src="{filename}/images/yorg/1.jpg" width="660" height="371" /></a></p>
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Hr8iXhzgRCI" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/HL2YqnVlwVI" frameborder="0" allowfullscreen></iframe></p>
 
 Quotes
 ------
@@ -47,6 +49,17 @@ Support us!
 
 Please, consider [supporting us]({filename}/pages/support_us.md)!
 
+Notes about the multiplayer
+---------------------------
+
+We want to stress that the multiplayer support is **very experimental**. So, you may see crashes, and we apologize for that. We've tested it a lot using our machines, but there are a lot of scenarios out there that may not have been caught by our tests.
+
+In order to play a multiplayer race, you need an **XMPP** account. There are a lot of services which provide free XMPP accounts. We suggest creating a **new** XMPP account for playing Yorg since our XMPP support is still experimental.
+
+Please note that if you want to host a match then you need to **open the port 9099** of your router and your firewall ([here]({filename}/pages/port_check.md) is a guide for checking if your port is actually open).
+
+**We're already working on this limitation (and many other improvements): this is an experimental feature and this is NOT the definitive implementation**.
+
 More info
 ---------
 
@@ -54,10 +67,8 @@ More info
 
 **System requirements**: 2 GB RAM, 1 GB HD.
 
-**Multiplayer**: if you can't play a multiplayer race, please check [this guide]({filename}/pages/port_check.md).
-
 We apply **Continuous Delivery** in our development. This means that you can play a new build of the game as soon as we do anything. Look at [here](http://www.ya2tech.it/download.html) to pick a development/unstable build.
 
 Yorg is developed by using several **tools**: [Panda 3D](http://www.panda3d.org), [Blender](https://www.blender.org), [The Gimp](http://www.gimp.org), [Python](https://www.python.org) and [Bullet](http://bulletphysics.org).
 
-The **development team** is currently composed of *Flavio Calva* and *Luca Quartero*. Moreover, *Jay Bachelor* is a precious collaborator. (more info [here]({filename}/pages/about.md)).
+The **development team** is currently composed of *Flavio Calva* and *Luca Quartero*. Moreover, *Jay Bachelor* is a precious collaborator (more info [here]({filename}/pages/about.md)).
