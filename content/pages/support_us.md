@@ -7,14 +7,6 @@ If you want to **help us** to develop our games, please consider the following w
 **Patreon**: [here is our Patreon campaign](https://www.patreon.com/ya2) (minimum pledge: **only $1**!).
 
 ---
-**Salt**: [here is our Salt campaign](https://salt.bountysource.com/teams/ya2) (minimum pledge: **only $1**!).
-
----
-**Liberapay**: [here is our Liberapay campaign](https://liberapay.com/Ya2) (minimum pledge: **only $0.01**!).
-
-<script src="https://liberapay.com/Ya2/widgets/receiving.js"></script>
-
----
 **Flattr**: <a href="https://flattr.com/@cflavio" target="_blank"><img src="//api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
 
 ---
