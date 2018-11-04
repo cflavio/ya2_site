@@ -9,6 +9,12 @@ You can find Yorg's presskit [here](http://www.indiedb.com/games/yorg/presskit).
 Yorg's Press
 ------------
 
+*"For those who love their arcade-style racing games Yorg is actually quite amusing."* ([GamingOnLinux](https://www.gamingonlinux.com/articles/free-and-open-source-racing-game-yorg-has-a-new-release-with-a-new-track-a-new-camera-and-more.12865))
+
+*"If you haven't played this fun game yet you ought to give it a try!"* ([Free Game News](https://fossgames.blogspot.com/2018/10/yorg-010.html))
+
+*"As you can see, the amount of changes and additions is significant."* ([Jugando En Linux](https://jugandoenlinux.com/index.php/homepage/generos/carreras/2-carreras/1008-el-juego-libre-yorg-alcanza-la-version-0-10))
+
 *"Free racing game Yorg with multiplayer support."* ([Pro-Linux](http://www.pro-linux.de/news/1/26017/freies-rennspiel-yorg-mit-multiplayer-unterstützung.html))
 
 *"But undoubtedly the most remarkable is the inclusion for the first time of a multiplayer mode."* ([Jugando En Linux](https://www.jugandoenlinux.com/index.php/homepage/generos/carreras/item/899-yorg-0-9-ya-esta-aqui))

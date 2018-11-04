@@ -1,5 +1,5 @@
 Title: Bug report
-sort: 91
+Status: hidden
 
 When you detect a bug, please [send us]({filename}/pages/about.md) a description of the bug and these files:
 

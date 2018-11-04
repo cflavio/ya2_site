@@ -27,10 +27,6 @@ PAGES_SORT_ATTRIBUTE = 'sort'
 SOCIAL = (
     ('twitter', 'http://twitter.com/ya2tech'),
     ('facebook', 'http://www.facebook.com/Ya2Tech'),
-    ('youtube', 'http://www.youtube.com/user/ya2games'),
-    ('pinterest', 'http://www.pinterest.com/ya2tech'),
-    ('tumblr', 'http://ya2tech.tumblr.com/'),
-    ('rss', SITEURL + '/pages/feed-following.html'),
     ('github', 'https://github.com/cflavio'),)
 DEFAULT_PAGINATION = 5
 DEFAULT_DATE = 'fs'

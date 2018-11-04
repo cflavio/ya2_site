@@ -1,5 +1,5 @@
 Title: Translations
-sort: 90
+Status: hidden
 
 Here's a short guide about creating or modifying translations for Yorg.
 
