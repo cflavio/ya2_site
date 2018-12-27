@@ -32,7 +32,8 @@ DEFAULT_PAGINATION = 5
 DEFAULT_DATE = 'fs'
 RELATIVE_URLS = True
 THEME = 'Flex'
-STATIC_PATHS = ['images', 'scripts', 'ads.txt', 'yorg_version.txt']
+STATIC_PATHS = [
+    'images', 'scripts', 'ads.txt', 'yorg_version.txt', 'base_track.tar.xz']
 ARTICLE_SAVE_AS = 'articles/{slug}.html'
 ARTICLE_URL = 'articles/{slug}.html'
 AUTHOR_SAVE_AS = ''
