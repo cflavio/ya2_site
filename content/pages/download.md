@@ -1,5 +1,5 @@
 Title: Download
-sort: 6
+Status: hidden
 
 From GameJolt
 -------------
@@ -19,28 +19,3 @@ From IndieDB
 ------------
 
 <p align="center"><a title="View Yorg on Indie DB" href="http://www.indiedb.com/games/yorg" target="_blank""><img src="http://button.indiedb.com/popularity/medium/games/44744.png" alt="Yorg"/></a></p>
-
-From our site
--------------
-
-Moreover, you can grab the latest stable builds clicking on the following direct download links. Plese note that we **strongly** suggest to use one of the previous services: they are **way better** for you and for us. Please, use the following links **only** if you **really** don't want to use the previous services.
-
-* <a href="http://www.ya2tech.it/built/yorg-stable-nointernet-windows.exe" onclick="ga('send', 'event', 'Yorg', 'windows');">Windows</a>
-* <a href="http://www.ya2tech.it/built/yorg-stable-nointernet-osx.tar.xz" onclick="ga('send', 'event', 'Yorg', 'osx');">OSX</a>
-* <a href="http://www.ya2tech.it/built/yorg-stable-nointernet-linux_amd64" onclick="ga('send', 'event', 'Yorg', 'linux64');">Linux 64</a>
-* <a href="http://www.ya2tech.it/built/yorg-stable-nointernet-linux_i386" onclick="ga('send', 'event', 'Yorg', 'linux32');">Linux 32</a>
-
----
-
-Development builds (testing only)
----------------------------------
-
-You can find our development builds [here](http://www.ya2tech.it/download.html).
-
-The last release candidate (testing only)
------------------------------------------
-
-* <a href="http://www.ya2tech.it/built/yorg-testing-nointernet-windows.exe" onclick="ga('send', 'event', 'Yorg', 'windows');">Windows</a>
-* <a href="http://www.ya2tech.it/built/yorg-testing-nointernet-osx.tar.xz" onclick="ga('send', 'event', 'Yorg', 'osx');">OSX</a>
-* <a href="http://www.ya2tech.it/built/yorg-testing-nointernet-linux_amd64" onclick="ga('send', 'event', 'Yorg', 'linux64');">Linux 64</a>
-* <a href="http://www.ya2tech.it/built/yorg-testing-nointernet-linux_i386" onclick="ga('send', 'event', 'Yorg', 'linux32');">Linux 32</a>
