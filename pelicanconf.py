@@ -27,7 +27,9 @@ PAGES_SORT_ATTRIBUTE = 'sort'
 SOCIAL = (
     ('twitter', 'http://twitter.com/ya2tech'),
     ('facebook', 'http://www.facebook.com/Ya2Tech'),
-    ('github', 'https://github.com/cflavio'),)
+    ('youtube', 'http://www.youtube.com/user/ya2games'),
+    ('github', 'https://github.com/cflavio'),
+    ('envelope-o', SITEURL + '/pages/community.html'),)
 DEFAULT_PAGINATION = 5
 DEFAULT_DATE = 'fs'
 RELATIVE_URLS = True
