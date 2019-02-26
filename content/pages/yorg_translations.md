@@ -14,7 +14,7 @@ Please note that the following guide doesn't pollute your system: you can safely
 * clone the repository: `git clone --recursive https://github.com/cflavio/yorg.git`
 * go into the directory: `cd yorg`
 * checkout the branch you want to work on (one of *master*, *testing*, *stable*): `git checkout <branchname>; git submodule foreach git checkout <branchname>`
-* create a python2 virtualenv: `virtualenv --python=/usr/bin/python2 venv`
+* create a python3 virtualenv: `virtualenv --python=/usr/bin/python3 venv`
 * activate the virtualenv: `. ./venv/bin/activate`
 * install the prerequisites: `pip install panda3d SCons`
 * build the required assets: `scons lang=1 images=1 tracks=1`
