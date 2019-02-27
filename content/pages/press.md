@@ -1,5 +1,5 @@
 Title: Press
-sort: 7
+Status: hidden
 
 Presskit
 --------

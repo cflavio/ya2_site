@@ -1,5 +1,5 @@
 Title: Community
-sort: 5
+Status: hidden
 
 Mailing list
 ============

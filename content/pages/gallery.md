@@ -1,5 +1,5 @@
 Title: Gallery
-sort: 4
+Status: hidden
 
 You can find several screenshots on Yorg's pages:
 

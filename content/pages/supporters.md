@@ -1,5 +1,5 @@
 Title: Supporters
-sort: 2
+Status: hidden
 
 Here are the persons who are supporting us for development monthly (look at [here]({filename}/pages/support_us.md) if you are interested in supporting us):
 
