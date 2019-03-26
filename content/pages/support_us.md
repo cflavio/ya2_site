@@ -11,15 +11,7 @@ If you want to **help us** to develop our games, please consider the following w
 
 **Bitcoins**: <a href="bitcoin:13KTKiNuf4z6kHFdQ8KWDD3gH1oTHWRrE6"><img src="http://en.bitcoin.it/w/images/en/8/8c/RibbonDonateBitcoin.png" title="13KTKiNuf4z6kHFdQ8KWDD3gH1oTHWRrE6" width="93"></a>
 
-Moreover, when you download our games, you can name your price, and offer us a help for developing!
-
-**Name your price on GameJolt:**
-
-<iframe src="https://widgets.gamejolt.com/package/v1?key=HCPQut48&theme=light" frameborder="0" width="500" height="245"></iframe>
-
-**Name your price on itch.io:**
-
-<iframe frameborder="0" src="https://itch.io/embed/133201" width="552" height="167"></iframe>
+**Name your price**: moreover, when you download our games (from [GameJolt](https://gamejolt.com/games/yorg/248156) or [itch.io](https://ya2.itch.io/yorg)), you can name your price, and offer us a help for developing!
 
 
 Supporters
@@ -27,9 +19,9 @@ Supporters
 
 Here are the persons who are supporting us for development monthly:
 
+* Willo Vincent
 * rdb
 * Mitchell Stokes
-* Dante Calva
 * Luisa Tenuta
 * Damiana Ercolani
 
