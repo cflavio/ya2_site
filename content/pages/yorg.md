@@ -54,6 +54,8 @@ From IndieDB:
 <p align="center"><a title="View Yorg on Indie DB" href="http://www.indiedb.com/games/yorg" target="_blank""><img src="http://button.indiedb.com/popularity/medium/games/44744.png" alt="Yorg"/></a></p>
 
 
+Moreover, you can download the latest **development builds** from [here](http://www.ya2tech.it).
+
 Support us!
 ===========
 
@@ -79,6 +81,8 @@ The **development team** is currently composed of *Flavio Calva* and *Luca Quart
 
 Yorg's Press
 ============
+
+*"This free project has achieved in a short time to take place, in our opinion, among the most outstanding free games."* ([Jugando En Linux](https://jugandoenlinux.com/index.php/homepage/generos/carreras/2-carreras/1099-los-mejores-juegos-de-coches-libres))
 
 *"For those who love their arcade-style racing games Yorg is actually quite amusing."* ([GamingOnLinux](https://www.gamingonlinux.com/articles/free-and-open-source-racing-game-yorg-has-a-new-release-with-a-new-track-a-new-camera-and-more.12865))
 
