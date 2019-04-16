@@ -27,6 +27,7 @@ Here are the persons who are supporting us for development monthly:
 
 Here are the persons who have supported us for 0.10's development:
 
+* Jan Havran
 * Chirsch
 
 Here are the persons who have supported us for 0.9's development:
