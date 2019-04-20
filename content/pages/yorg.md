@@ -82,6 +82,8 @@ The **development team** is currently composed of *Flavio Calva* and *Luca Quart
 Yorg's Press
 ============
 
+*"The next release of the free and open source racer 'Yorg' sounds like it's going to be great"* ([GamingOnLinux](https://www.gamingonlinux.com/articles/the-next-release-of-the-free-and-open-source-racer-yorg-sounds-like-its-going-to-be-great.13921))
+
 *"This free project has achieved in a short time to take place, in our opinion, among the most outstanding free games."* ([Jugando En Linux](https://jugandoenlinux.com/index.php/homepage/generos/carreras/2-carreras/1099-los-mejores-juegos-de-coches-libres))
 
 *"For those who love their arcade-style racing games Yorg is actually quite amusing."* ([GamingOnLinux](https://www.gamingonlinux.com/articles/free-and-open-source-racing-game-yorg-has-a-new-release-with-a-new-track-a-new-camera-and-more.12865))
