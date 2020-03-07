@@ -15,13 +15,12 @@ Design elements
 * power-ups;
 * weapons;
 * championships;
-* multiplayer;
-* local multiplayer (planned for release 0.11);
-* joypad support (planned for release 0.11).
+* online multiplayer;
+* local multiplayer.
 
 Yorg is **FLOSS**: the code of the game is released under *GPLv3*. Ya2's art assets are released under *CC BY-SA*. Project's source are [here](https://github.com/cflavio/yorg). Several art assets are [here](https://opengameart.org/users/flavio).
 
-<p align="center"><a href="{filename}/images/yorg/1.jpg"><img src="{filename}/images/yorg/1.jpg" width="660" height="371" /></a></p>
+<p align="center"><a href="{filename}/images/yorg/yorg_0_11_a.jpg"><img src="{filename}/images/yorg/yorg_0_11_a.jpg" width="660" height="371" /></a></p>
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/1-ePMtYUMv0" frameborder="0" allowfullscreen></iframe></p>
 
@@ -81,6 +80,12 @@ The **development team** is currently composed of *Flavio Calva* and *Luca Quart
 
 Yorg's Press
 ============
+
+*"Really cool is also the new controller support and awesome particle effects."* ([FreeGamer](https://freegamer.blogspot.com/2019/08/yorg-011-released-now-with-split-screen.html))
+
+*"Yorg just recently put out a big a new release and it's coming along nicely."* ([GamingOnLinux](https://www.gamingonlinux.com/articles/the-foss-racer-yorg-has-recently-released-a-big-update-with-local-multiplayer.14929))
+
+*"We have to say that the list of improvements is impressive."* ([Jugando En Linux](https://jugandoenlinux.com/index.php/homepage/generos/carreras/2-carreras/1228-ya-esta-aqui-yorg-0-11))
 
 *"The next release of the free and open source racer 'Yorg' sounds like it's going to be great"* ([GamingOnLinux](https://www.gamingonlinux.com/articles/the-next-release-of-the-free-and-open-source-racer-yorg-sounds-like-its-going-to-be-great.13921))
 

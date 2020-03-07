@@ -19,11 +19,21 @@ Supporters
 
 Here are the persons who are supporting us for development monthly:
 
-* Willo Vincent
 * rdb
 * Mitchell Stokes
 * Luisa Tenuta
 * Damiana Ercolani
+
+Here are the persons who have supported us for 0.12's development:
+
+* botbrixx
+
+Here are the persons who have supported us for 0.11's development:
+
+* alinhan
+* last atarian
+* femm
+* Willo Vincent
 
 Here are the persons who have supported us for 0.10's development:
 

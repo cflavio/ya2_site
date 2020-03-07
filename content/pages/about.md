@@ -23,13 +23,6 @@ Hi, I'm **Flavio Calva**. I'm the founder of *Ya2*. I was born in Rome; at prese
 
 <p align="center"><img src="{filename}/images/about/flavio.png"/></p>
 
-Collaborators
--------------
-
-My name is **Jay** and I am from Phoenix, Arizona. I currently live in the south of Puerto Rico. In my free time, I love to play classic video games and compose music for fun. I started playing piano at age 14 and decided soon after that music is my hobby and my passion.
-
-<p align="center"><img src="{filename}/images/about/jay.png"/></p>
-
 Translators
 -----------
 
@@ -37,13 +30,6 @@ Translators
 * French: *xin*;
 * Scottish Gaelic: *GunChleoc*;
 * Spanish and Galician: *Leandro Vergara*.
-
-Formers collaborators
----------------------
-
-* Luca Quartero (graphics, until 0.10);
-* Dario Murgia (testing, until 0.7);
-* Jeff Skyrunner (blog, until 0.7).
 
 Licenses
 ========
