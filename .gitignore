@@ -1,5 +1,7 @@
 *.pyc
 output/
+docs/
+_build/
 .project
 .pydevproject
 .settings
