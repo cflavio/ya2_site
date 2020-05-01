@@ -1,4 +1,9 @@
 {% extends "groundwork_sphinx_theme/templates/layout.html" %}
+{%- block linktags %}
+{{ super() }}
+    <link rel="alternate" type="application/rss+xml" title="Ya2's RSS" href="https://www.ya2.it/index.rss" />
+{%- endblock %}
+
 {%- block extrahead %}
 {{ super() }}
 <script type="text/javascript">

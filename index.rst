@@ -25,7 +25,8 @@ News
    :rss: index.rss
    :title: Ya2 News
    :description: Ya2's news
-   :link: https://www.ya2.it
+   :link: https://www.ya2.it/
 
+   posts/may_2020
    posts/march_2020
    posts/0_11

@@ -36,6 +36,7 @@ Here are the persons who are supporting us for development monthly:
 
 Here are the persons who have supported us for 0.12's development:
 
+* josef kubicek
 * mgt2
 * ycli mars
 * chris w

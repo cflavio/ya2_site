@@ -90,6 +90,8 @@ Yorg is developed by using several **tools**: `Panda 3D <http://www.panda3d.org>
 Yorg's Press
 ------------
 
+*"Yorg announces lots of news for its next version"* (`Jugando En Linux <https://jugandoenlinux.com/index.php/homepage/carreras/1187-yorg-anuncia-montones-de-novedades-para-su-proxima-version>`__)
+
 *"Yorg is a game that derives directly from classics like the Micro Machine, and is a totally free open source project."* (`Xataka <https://www.xataka.com/basics/17-mejores-juegos-conduccion-coches-carreras-gratis-para-pc>`__)
 
 *"Really cool is also the new controller support and awesome particle effects."* (`FreeGamer <https://freegamer.blogspot.com/2019/08/yorg-011-released-now-with-split-screen.html>`__)
