@@ -34,8 +34,9 @@ Here are the persons who are supporting us for development monthly:
 * Luisa Tenuta
 * Damiana Ercolani
 
-Here are the persons who have supported us for 0.12's development:
+Here are the persons who have supported us for 0.11.1's development:
 
+* Fabrizio Calva
 * josef kubicek
 * mgt2
 * ycli mars

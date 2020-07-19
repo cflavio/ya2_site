@@ -27,6 +27,7 @@ News
    :description: Ya2's news
    :link: https://www.ya2.it/
 
+   posts/june_2020
    posts/may_2020
    posts/march_2020
    posts/0_11
