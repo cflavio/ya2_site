@@ -1,10 +1,6 @@
 March 2020 update
 =================
 
-.. feed-entry::
-   :author: flavio
-   :date: 2020-3-7
-
 Hi! Here is an update about my development progresses.
 
 .. cut::
@@ -51,3 +47,7 @@ Support me
 ----------
 
 Finally, I would love if you may consider to :ref:`support me <support-page>`. As usual, you may consider my campaign on `Patreon <http://www.patreon.com/ya2>`_ (minimum pledge: **only $1**!). Thank you very much!
+
+.. feed-entry::
+   :date: 2020-3-7
+   :author: flavio

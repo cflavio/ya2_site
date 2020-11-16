@@ -1,0 +1,24 @@
+
+@import url("alabaster.css");
+
+/*div.document {
+    width: 100%;
+    margin: 10px auto 0 auto;
+}
+
+div.body {
+    min-width: 450px;
+    max-width: 100%;
+}
+
+div.bodywrapper {
+    margin: 0 0 0 180px;
+}
+
+div.sphinxsidebar {
+    width: 180px;
+}*/
+
+div.document {
+    width: 1192px;
+}

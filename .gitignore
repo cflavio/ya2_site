@@ -6,3 +6,4 @@ _build/
 .pydevproject
 .settings
 *.geany
+sphinx_git.py

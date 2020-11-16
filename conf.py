@@ -31,7 +31,7 @@ import datetime
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.viewcode']
+extensions = ['sphinx.ext.autodoc', 'sphinx.ext.viewcode', 'sphinx_git']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -91,9 +91,23 @@ html_theme_options = {
     #"sidebar_width": '240px',
     #"stickysidebar": True,
     #"stickysidebarscrollable": True,
-    "contribute": False,
-    "github_fork": None,
-    "github_user": None,
+    #"contribute": False,
+    #"github_fork": None,
+    #"github_user": None,
+    #'description': 'floss game developer',
+    'fixed_sidebar': True,
+    #'logo': 'logo.png',
+    'analytics_id': 'UA-21923864-1',
+    #'github_button': True,
+    #'github_user': 'cflavio',
+    #'github_repo': 'yorg',
+    #'github_type': 'star',
+    #'sidebar_collapse': False,
+    'sidebar_includehidden': True,
+    'show_powered_by': False,
+    #'show_source': False,
+    #'globaltoc_includehidden': False,
+    #'globaltoc_collapse': True
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -112,15 +126,18 @@ html_static_path = ['_static']
 #
 # This is required for the alabaster theme
 # refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
-#html_sidebars = {
-#    '**': [
+html_sidebars = {
+    '**': [
+         'about.html',
+         'navigation.html'
 #        'relations.html',  # needs 'show_related': True theme option to display
 #        'searchbox.html',
-#    ]
-#}
-html_sidebars = { '**': ['globaltoc.html'] }
+    ]
+}
+#html_sidebars = { '**': ['globaltoc.html'] }
 html_show_copyright = False
 html_show_sphinx = False
+html_show_sourcelink = False
 html_favicon = 'favicon.ico'
 
 # -- Options for HTMLHelp output ------------------------------------------

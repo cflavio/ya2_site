@@ -1,10 +1,6 @@
 Yorg 0.11 has been released!
 ============================
 
-.. feed-entry::
-   :author: flavio
-   :date: 2019-8-31
-
 Hi! I have released a *new version* of **Yorg**! Let's talk about the new features.
 
 .. cut::
@@ -89,3 +85,7 @@ Here is the quick changelog:
 * AI improvements;
 * performance improvements;
 * driving model's improvements.
+
+.. feed-entry::
+   :date: 2019-8-31
+   :author: flavio
